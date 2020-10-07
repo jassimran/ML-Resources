@@ -20,4 +20,4 @@ There is plethora of resources available online to learn Machine Learning. At ti
 - And Another Resource List[link](https://github.com/josephmisiti/awesome-machine-learning)
 - Video format with github repo containing PDF lectures for the theoretical part and Jupyter Notebooks for the labs at Harvard - [link](https://github.com/Harvard-IACS/2019-CS109A)
 
-![A concise list to get you started on your Machine Learning journey](image.jpg)
+![A concise list to get you started on your Machine Learning journey](https://raw.githubusercontent.com/jassimran/ML-Resources/master/ML%20guide.png)
