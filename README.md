@@ -8,8 +8,8 @@ There is plethora of resources available online to learn Machine Learning. At ti
     - My absolute favorite (Gives enough depth to understand breadth of major DL concepts) on [Coursera](https://www.coursera.org/specializations/deep-learning) (Auditing is free, though I found great value in doing all the assignments, for which you need to pay a nominal subscription fee. Scholarships avilable too)
     - Or another Highly recommended course on [Fast.ai](https://course.fast.ai/)
 - Simple example notebooks to get hands-on practice of basics on [Github](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
-- A to Z of NLP concepts on [Coursera](https://www.coursera.org/specializations/natural-language-processing)
-- A to Z of Computer Vision by [Stanford](http://vision.stanford.edu/teaching/cs231n/)
+- ABC of NLP concepts on [Coursera](https://www.coursera.org/specializations/natural-language-processing)
+- ABC of Computer Vision by [Stanford](http://vision.stanford.edu/teaching/cs231n/)
 - Great visual illustrations of few concepts in AI - [link to Blog](http://jalammar.github.io/)
 
 
