@@ -2,9 +2,8 @@
 There is plethora of resources available online to learn Machine Learning. At time the list of resources is overwhemling, which could discourage starters or make you feel like you are soooo far behind everyone else. Here is a not-so-daunting list of resources, enough to get you off your feet, so that you can make sense of all those big lists, pick and learn topics of your choice.
 
 - **Getting started in ML** : 
-    - Stanford Intro to ML course taught by Andrew Ng: https://www.youtube.com/watch?v=jGwO_UgTS7I&amp=&index=1 or 
-    - Or similar content via coursera (Courera has assignments using Octave which is kinda outdated): https://www.coursera.org/learn/machine-learning#syllabu
-    - https://developers.google.com/machine-learning/crash-course
+    - Stanford Intro to ML course taught by Andrew Ng: https://www.youtube.com/watch?v=jGwO_UgTS7I&amp=&index=1 or similar content via coursera (Courera has assignments using Octave which is kinda outdated): https://www.coursera.org/learn/machine-learning#syllabu
+    - https://developers.google.com/machine-learning/crash-course or https://www.edx.org/course/machine-learning-with-python-a-practical-introduct
 - **Getting started in DL** : 
     - My absolute favorite (Gives enough depth to understand breadth of major DL concepts): https://www.coursera.org/specializations/deep-learning (Auditing is free, though I found great value in doing all the assignments, for which you need to pay a nominal subscription fee. Scholarships avilable too)
     - Or another Highly recommended course: https://course.fast.ai/
