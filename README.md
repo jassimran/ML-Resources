@@ -1,5 +1,5 @@
 # ML Resources
-There is plethora of resources available online to learn Machine Learning. At times, the list of resources is overwhemling, which could discourage starters or make you feel like you are soooo far behind everyone else. Here is a not-so-daunting list of resources, enough to get you off your feet, so that you can make sense of all those long lists, pick and learn topics of your choice.
+There is plethora of resources available online to learn Machine Learning. At times, the list of resources is overwhemling, which could discourage starters or make you feel like you are soooo far behind everyone else. Here is a not-so-daunting list of resources for novice in ML, enough to get you off your feet, so that you can make sense of all those long lists, pick and learn topics of your choice. DISCLAIMER: This list is based on my journey in learning Machine Learning, different people learn in different ways, pick what works best for you.
 
 - **Getting started in ML** : 
     - Stanford Intro to ML course taught by Andrew Ng on [Youtube](https://www.youtube.com/watch?v=jGwO_UgTS7I&amp=&index=1) or similar content via coursera (Courera has assignments using Octave which is kinda outdated) on [Coursera](https://www.coursera.org/learn/machine-learning#syllabu)
