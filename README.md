@@ -7,16 +7,16 @@ There is plethora of resources available online to learn Machine Learning. At ti
 - **Getting started in DL** : 
     - My absolute favorite (Gives enough depth to understand breadth of major DL concepts) on [Coursera](https://www.coursera.org/specializations/deep-learning) (Auditing is free, though I found great value in doing all the assignments, for which you need to pay a nominal subscription fee. Scholarships avilable too)
     - Or another Highly recommended course on [Fast.ai](https://course.fast.ai/)
-- Simple example notebooks to get hands-on practice of basics on [Github](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
+- Topic wise list with simple explanations and sample notebooks illustrating the concepts : [link](https://madewithml.com/topics/)
 - ABC of NLP concepts on [Coursera](https://www.coursera.org/specializations/natural-language-processing)
 - ABC of Computer Vision by [Stanford](http://vision.stanford.edu/teaching/cs231n/)
-- Great visual illustrations of few concepts in AI - [link to Blog](http://jalammar.github.io/)
-
+- Simple example notebooks to get hands-on practice of basics on [Github](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
 
 #### Now that you know basic building blocks of ML, here are some overwhelming lists to pursue to go beyond basics, or if you don't understand some topic, or want to understand something indepth:
 - Topic wise good resources by [Montreal.ai](https://montrealartificialintelligence.com/academy/)
 - A comprehensive list of courses in AI: [Course list](https://deep-learning-drizzle.github.io/)
-- Medium Resource list [link](https://medium.com/machine-learning-in-practice/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524)
+- Great visual illustrations of few concepts in AI - [link to Blog](http://jalammar.github.io/)
+- A good resource list on medium, specifically follow the people on twitter to stay up to day on what is latest in the field [link](https://medium.com/machine-learning-in-practice/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524)
 - Another Resource List [link](https://github.com/soaicbe/ai_all_resources) 
 - And Another Resource List [link](https://github.com/josephmisiti/awesome-machine-learning)
 - Video format with github repo containing PDF lectures for the theoretical part and Jupyter Notebooks for the labs at Harvard - [link](https://github.com/Harvard-IACS/2019-CS109A)
