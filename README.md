@@ -12,6 +12,7 @@ There is plethora of resources available online to learn Machine Learning. At ti
 - ABC of Computer Vision by [Stanford](http://vision.stanford.edu/teaching/cs231n/)
 - Simple example notebooks to get hands-on practice of basics on [Github](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
 
+#### DL and Reinforcement Learning in 20 hours: [link](https://www.reddit.com/r/MachineLearning/comments/lqrek7/n_20_hours_of_new_lectures_on_deep_learning_and/)
 #### Now that you know basic building blocks of ML, here are some overwhelming lists to pursue to go beyond basics, or if you don't understand some topic, or want to understand something indepth:
 - Topic wise good resources by [Montreal.ai](https://montrealartificialintelligence.com/academy/)
 - A comprehensive list of courses in AI: [Course list](https://deep-learning-drizzle.github.io/)
